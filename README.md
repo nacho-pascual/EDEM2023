@@ -1,5 +1,5 @@
 # EDEM2022
-Nacho Pascual
+NACHO Pascual
 Clase de Git
 Prueba 1
 
