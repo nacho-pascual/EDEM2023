@@ -1,4 +1,5 @@
 # EDEM2022
+<<<<<<< HEAD
 # Master Data Anlytics Edem 2022
 ## _Nacho Pascual_
 
@@ -15,4 +16,9 @@ Objetivos master
 
 ## Fin
 
+=======
+NACHO Pascual
+Clase de Git
+Prueba 1
+>>>>>>> 5d671a93973db2d088f994ecd248c5caf1beca33
 
