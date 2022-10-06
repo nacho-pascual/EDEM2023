@@ -31,7 +31,11 @@ seleccion = int(input("Introduce el número del disco a comprar"))-1
 
 print(seleccion)
 
+precio_Carrito=0
+cantidadDescuento=0
+
 if discos_tienda[seleccion]["Genero"]=='Electro' or discos_tienda[seleccion]["Genero"]=='Black Metal':
     precio_Carrito=discos_tienda[seleccion]["Precio"]*0.7
+    cantidadDescuento = discos_tienda[seleccion]["Precio"]*0.3
 else:
     precio_Carrito=discos_tienda[seleccion]["Precio"]
