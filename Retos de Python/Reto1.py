@@ -1,3 +1,5 @@
+from datetime import datetime
+
 discos_tienda=[
   
 {"Nombre":"Trhiller","Artista":"Michael Jackson","Precio":15,"Genero":"Pop"},
@@ -24,4 +26,12 @@ for idx,disco in enumerate(discos_tienda):
 for idx,disco in enumerate(discos_tienda):
     print(f'Num disco {idx+1}: Nombre: {disco["Nombre"]} Precio: {disco["Precio"]} Genero: {disco["Genero"]}')
 
+#imput para que el usuario seleccione un disco
+seleccion = int(input("Introduce el número del disco a comprar"))-1
 
+print(seleccion)
+
+if discos_tienda[seleccion]["Genero"]=='Electro' or discos_tienda[seleccion]["Genero"]=='Black Metal':
+    precio_Carrito=discos_tienda[seleccion]["Precio"]*0.7
+else:
+    precio_Carrito=discos_tienda[seleccion]["Precio"]
