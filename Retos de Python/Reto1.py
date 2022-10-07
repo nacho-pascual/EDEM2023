@@ -39,3 +39,4 @@ if discos_tienda[seleccion]["Genero"]=='Electro' or discos_tienda[seleccion]["Ge
     cantidadDescuento = discos_tienda[seleccion]["Precio"]*0.3
 else:
     precio_Carrito=discos_tienda[seleccion]["Precio"]
+
