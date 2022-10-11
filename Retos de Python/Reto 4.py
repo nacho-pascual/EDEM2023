@@ -21,6 +21,5 @@ for i in range(len(lista_lenguajes)):
     else:
         lista_lenguajes[i].append(input("Conoces el lenguaje Dart, introduce si o no: "))
 
-for i in lista_lenguajes:
-  print(i)
-  
+for i in range(len(lista_lenguajes)):
+    print(f'{lista_lenguajes[i][0]} : {lista_lenguajes[i][1]}')
