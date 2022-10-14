@@ -1,6 +1,7 @@
 '''Reto 5
 Escribe un programa que realice lo mismo que el programa del reto 4, pero que elimine de la lista aquellos lenguajes que el usuario conoce y únicamente muestre aquellos que no conoce'''
 
+
 lista_lenguajes=[["JavaScript"],["TypeScript"],["Python"],["Dart"]]
 
 
@@ -14,8 +15,7 @@ for i in range(len(lista_lenguajes)):
     else:
         lista_lenguajes[i].append(input("Conoces el lenguaje Dart, introduce si o no: "))
 for i in range(len(lista_lenguajes)):
-  if lista_lenguajes[i][1] == "no":
-    lista_lenguajes.pop([i])
-    
-print(lista_lenguajes) 
+  if lista_lenguajes[i][1] == 0:
+    lista_lenguajes.pop(i)
+    print(f'{lista_lenguajes[i][0]} : {lista_lenguajes[i][1]}')
 
