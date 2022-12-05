@@ -58,7 +58,7 @@ Las conexiones actúan como un buffer para los flowfiles, y tienen un sistema de
 
 Agrupación de procesadores y conexiones que sirve para tratarlos como una unidad lógica independiente dentro del flujo de procesamiento. Para interactuar con el resto de componentes tienen puertos de entrada y de salida que gestionan el envío de flowfiles.
 
-**Grupos de Proceso y Plantillas**
+**Controller Service y Plantillas**
 
 Los controller service o controladores se utilizan para compartir un recurso entre distintos processors. Por ejemplo puede ser una conexión a una base de datos, a AWS S3 o a un contenedor de Azure.
 
