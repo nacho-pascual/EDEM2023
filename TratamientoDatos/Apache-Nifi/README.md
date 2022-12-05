@@ -46,7 +46,7 @@ Es un contenedor de datos que viaja por el flujo entre los procesadores.Es su ca
 
 **Processor**
 
-Son los componentes principales en Nifi , se encargan de ejecutar las acciones de los datos o el flujo. Proporciona la interfaz para acceder a los flowfiles.Se pueden implementar procesadores personalizados mediante una api de java y además se puede programar su ejecucuón mediante crome, tiempo predefinido o eventos de entrada. Llevan incorporado un validador de comunicación y gráficas con las estadísticas y trazas.
+Son los componentes principales en Nifi , se encargan de ejecutar las acciones de los datos o el flujo. Proporciona la interfaz para acceder a los flowfiles.Se pueden implementar procesadores personalizados mediante una api de java y además se puede programar su ejecucuón mediante CRON, tiempo predefinido o eventos de entrada. Llevan incorporado un validador de comunicación y gráficas con las estadísticas y trazas.
 
 **Conexiones**
 
