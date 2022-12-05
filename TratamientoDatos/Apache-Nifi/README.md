@@ -21,6 +21,12 @@ Entre las características de Apache-Nifi destacan:
 - Integración y conexión con gran cantidad de tecnologías
 - Facilita la implementación de ETLs visualmente con una
 sencilla interfaz gráfica
+
+**Ejemplo de implementación con Kafka y Elasticsearch**
+
+<p align="center">
+<img src= "https://raw.githubusercontent.com/nacho-pascual/EDEM2022/main/TratamientoDatos/Captura%20de%20Pantalla%202022-12-05%20a%20las%208.22.23.png" width="500">
+</p>
  
 
 # Componentes principales
