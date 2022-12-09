@@ -4,8 +4,8 @@
 
 | CARPETA | CONTENIDO |
 | ------ | ------ |
-| [Fundamentos](Fundamentos/) |En este módulo de iniciación se asientan las bases del curso mediante el aprendizaje de:Linux,Github,Containers,Docker,Notebooks,Programación básica con Python|
-| [TratamientoDatos](TratamientoDatos/) | En este módulo entramos de lleno en el tratamiento del dato viendo los siguientes puntos: Origen del dato,Fuentes: Tipos y procesamiento,Bases de datos relacionales y no relacionales,Ingestión,SQL, ETL,Herramientas: Cassandra,Gobierno del dato,Herramientas: Nifi,Herramientas: Kafka,Herramientas: Spark,Herramientas: Hadoop,ELK,Streaming,Calidad del dato,Ética del dato   |
+| [Fundamentos](0.Fundamentos/) |En este módulo de iniciación se asientan las bases del curso mediante el aprendizaje de:Linux,Github,Containers,Docker,Notebooks,Programación básica con Python|
+| [TratamientoDatos](1.TratamientoDatos/) | En este módulo entramos de lleno en el tratamiento del dato viendo los siguientes puntos: Origen del dato,Fuentes: Tipos y procesamiento,Bases de datos relacionales y no relacionales,Ingestión,SQL, ETL,Herramientas: Cassandra,Gobierno del dato,Herramientas: Nifi,Herramientas: Kafka,Herramientas: Spark,Herramientas: Hadoop,ELK,Streaming,Calidad del dato,Ética del dato   |
 
 <br>
 
