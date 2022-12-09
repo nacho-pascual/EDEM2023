@@ -15,12 +15,4 @@
 
 
 
-Objetivos master
-
-- Dominar la programación en Python.
-- Dominar las herramientas de Data Science.
-- ✨Encontrar un trabajo en el mundo de los datos ✨
-
-## Fin
-
 
