@@ -1,18 +1,30 @@
-# MASTER BIG DATA ANALYTICS  [![N|Solid](https://edem.eu/wp-content/plugins/edem-shortcodes/public/img/logo-Edem.png)](https://edem.eu)   2022
+# MASTER DATA  [![N|Solid](https://edem.eu/wp-content/plugins/edem-shortcodes/public/img/logo-Edem.png)](https://edem.eu)   2023
+
+En el Máster de [EDEM][edem] sobre BIG Data Analytics, el aprendizaje se estructura en diferentes módulos, cuyo contenido en este repositorio se ha clasificado en las siguientes carpetas:
 
 <br>
 
 | CARPETA | CONTENIDO |
 | ------ | ------ |
-| [0.Fundamentos](0.Fundamentos/) |En este módulo de iniciación se asientan las bases del curso mediante el aprendizaje de:Linux,Github,Containers,Docker,Notebooks,Programación básica con Python|
-| [1.TratamientoDatos](1.TratamientoDatos/) | En este módulo, entramos de lleno en el mundo del tratamiento del dato mediante los siguientes puntos: Origen del dato,Fuentes: Tipos y procesamiento,Bases de datos relacionales y no relacionales,Ingestión,SQL, ETL,Herramientas: Cassandra,Gobierno del dato,Herramientas: Nifi,Herramientas: Kafka,Herramientas: Spark,Herramientas: Hadoop,ELK,Streaming,Calidad del dato,Ética del dato   |
-| [2.AnalisisyAprendizajeAutomatico](2.AnalisisyAprendizajeAutomatico/) |En este módulo, dscubrimos el mundo de la inteligencia artificial y el machine learning mediante los siguientues puntos: Inteligencia Artificial aplicada,Machine Learning,Herramientas: Knime,De Knime a Python,Modelos de Machine Learning: regresión lineal, logística y SVM,Modelos de Machine Learning: árboles de decisión, random forest y XGBoost,Kaggle master / Digital fashion & NFT´s in metaverse,LSTM + Sistemas Recomendadores,Time Series + RNN,Chatbots + NLP,RNN,Computer vision – Use cases,Segmentation + Landmark Detection,Generative Adversial Networks,Deploymen |
-| [3.AplicacionNegocio](3.AplicacionNegocio/) |En este módulo, profundizamos en la aplicación de las tecnologías vistas anteriormente mediante:Integración de los datos con la toma de decisiones,Visualización y Consulta: Modelos y Herramientas de Reporting,Visualización y Consulta: Dashboards,Visualización y Consulta: Consulta, Monitorización y Alertas,Casos reales de aplicación|
-| [4.TransformacionDigital](4.TransformacionDigital/) |En este módulo, veremos las últimas tenedencias en transformación digital:Gestión del Cambio,Blockchain,Location Intelligence,IoT Sensorización,Computación Cuántica |
+| [Modulo_0-Fundamentos](Modulo_0-Fundamentos/) | Contiene la parte introductoria del curso. En este primer módulo se aprende sobre lenguajes como Python o Unix, así como el manejo de herramientas como Docker  |
+| [Modulo_1-TratamientoDato](Modulo_1-TratamientoDato/) | En este módulo aprendemos los conceptos y programas empleados para el tratamiento de los datos, desde la ingestión de datos hasta su aplicación al negocio |
+| [Modulo_2-AplicacionNegocio](Modulo_2-AplicacionNegocio/) | En este módulo aprendemos diferentes ideas sobre como utilizar los datos para potenciar el crecimiento de una empresa |
+| [Modulo_3-TransformacionDigital](Modulo_3-TransformacionDigital/) | En este módulo nos enseñan las formas en la que los datos están transformando nuestra sociedad y como cambiará el mundo en las próximas décadas  |
+| [Modulo_4-AprendizajeAutomatico](Modulo_4-AprendizajeAutomatico) | En este módulo aprendemos algoritmos de Machine Learning y Deep Learning que se utilizan para sacar el mayor provecho de los datos a través de la IA  |
 
 
 <br>
 
+Dentro de cada una de las carpetas la organización es la siguiente:
+
+<br>
+
+| ARCHIVO/DIR | CONTENIDO |
+| ------ | ------ |
+| README.md | Explica la estructura que tiene dicho módulo y como se dividen las diferentes carpetas  |
+| NotasClase | Incluye los apuntes tomados sobre teoría general de dicho módulo |
+| <lenguaje/software> | Cada carpeta con el nombre de un lenguaje de programación o software que se utiliza durante el Máster |
 
 
+--------------------------------------------------------------------------------
 
